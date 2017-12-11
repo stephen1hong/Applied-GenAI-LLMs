@@ -1,4 +1,4 @@
-"# RNN-Time-Series_Prediction" 
+"# RNN-Time-Series-Prediction" 
 
 Built RNNs that can generate sequences based on input data - with a focus on two applications:
 The first one uses real market data in order to predict future Apple stock prices using an RNN model.
